@@ -1,0 +1,72 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.color.red::before {
+  background-color: red;
+}
+
+main {
+  background: linear-gradient(to top, rgb(52, 54, 184), rgb(11, 37, 47));
+}
+
+h4 {
+  font-size: 0.75rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  /* margin: 0 0 1em 0; */
+}
+
+.avatar {
+  border: 5px solid gray;
+  border-radius: none;
+  animation: animate-avatar 5s linear infinite;
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+  object-position: center;
+}
+
+@keyframes animate-avatar {
+  0% {
+    border-color: rgb(101, 5, 255);
+    box-shadow: 15px -3px 13px rgb(255, 0, 0);
+  }
+
+  33% {
+    border-color: rgb(187, 15, 255);
+    box-shadow: 15px -3px 13px rgb(255, 238, 0);
+  }
+
+  66% {
+    border-color: rgb(0, 255, 42);
+    box-shadow: 15px -3px 13px rgb(0, 174, 255);
+  }
+
+  100% {
+    border-color: rgb(0, 174, 255);
+    box-shadow: 15px -3px 13px rgb(255, 0, 255);
+  }
+}
+
+.zacemlink {
+  color: black;
+  text-decoration: none !important;
+}
+
+.zacemlink:hover {
+  color: black;
+}
+
+.name {
+  font-size: 75px;
+  margin-top: -35px;
+}
+
+.job {
+  font-size: 35px;
+  margin-bottom: 25px;
+}
