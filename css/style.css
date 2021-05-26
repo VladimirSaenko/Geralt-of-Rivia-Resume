@@ -70,3 +70,28 @@ h4 {
   font-size: 35px;
   margin-bottom: 25px;
 }
+
+.nowrap {
+  text-transform: uppercase;
+}
+
+@media screen and (min-width: 300px) and (max-width: 800px) {
+  .job {
+    font-size: 25px;
+    flex-wrap: wrap;
+    font-weight: bold;
+  }
+
+  .contacts {
+    font-size: 25px;
+    flex-wrap: wrap;
+  }
+
+  .contacts li a .icon {
+    height: 2rem;
+  }
+
+  .avatar {
+    height: 350px;
+  }
+}

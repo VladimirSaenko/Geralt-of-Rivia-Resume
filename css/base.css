@@ -1,6 +1,3 @@
-::-moz-selection {
-  background: yellow;
-}
 ::selection {
   background: black;
   color: white;
@@ -229,9 +226,9 @@ button:-moz-focusring,
 }
 
 /* Utiltities */
-.nowrap {
+/* .nowrap {
   white-space: nowrap;
-}
+} */
 
 /* Article */
 article {
