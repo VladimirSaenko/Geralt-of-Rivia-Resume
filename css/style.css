@@ -84,8 +84,8 @@ h4 {
 @media screen and (min-width: 300px) and (max-width: 800px) {
   .job {
     font-size: 25px;
-    flex-wrap: wrap;
-    font-weight: bold;
+    line-height: 2.5rem;
+    font-weight: bolder;
   }
 
   .contacts {
