@@ -94,6 +94,13 @@ div#slider figure {
   animation: 10s slidy infinite;
 }
 
+.co_author-link {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  font-size: 15px;
+}
+
 @keyframes slidy {
   0% { left: 0%; }
   20% { left: 0%; }
