@@ -17,10 +17,13 @@
 ![photo_2020-12-29_22-47-09](https://user-images.githubusercontent.com/56477695/120536236-9128cb00-c3ec-11eb-93ea-4bc71bf8a8b2.jpg)
 
 Homepage
+
 My very own personal website about the professional monster killer Geralt of Rivia, based on a series of books by Polish writer Andrzej Sapkowski in the fantasy genre. This is mostly just a resume.
 
 About Geralt
+
 “I, Geralt of Rivia, nicknamed by the elves" Guinblade "and the White Wolf, a witcher from the Wolf School in Kaer Morhen, the kingdom of Kaedwen. A living legend of the entire North. Passed the Trial of Herbs, overcame mutations and training, destroyed countless monsters and beasts of the entire bestiary of the Continent, and much more. I have an incredibly huge number of closed contracts, of which the most famous are: lifting the curse imposed on Princess Adda; expulsion of the genie from Rinda; victory in a battle with the demon Gunter O'Dimom; the assassination of the king of the Wild Hunt, Eredin Breakk Glas; ridding Toussaint of Bokler Beast-vampire Detlaff."
 
 About Project
+
 Basic instructions for the code are available at github wiki.
