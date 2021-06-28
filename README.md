@@ -18,6 +18,7 @@
 ![2428790-geralt2](https://user-images.githubusercontent.com/56477695/122649678-9188cc00-d137-11eb-9006-346261a21ee0.png)
 ![thumb2-geralt-of-rivia-4k-2017-games-art-rpg](https://user-images.githubusercontent.com/56477695/122649686-98afda00-d137-11eb-9489-9067055ca166.jpg)
 ![photo_2021-06-26_17-19-23](https://user-images.githubusercontent.com/56477695/123520833-80056e00-d6bb-11eb-8745-8a657d48cc04.jpg)
+![photo_2021-06-28_11-10-32](https://user-images.githubusercontent.com/56477695/123633167-89104f80-d821-11eb-86af-529f37a4bdce.jpg)
 
 Homepage
 
