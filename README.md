@@ -21,8 +21,6 @@
 ![photo_2021-06-28_11-10-32](https://user-images.githubusercontent.com/56477695/123633167-89104f80-d821-11eb-86af-529f37a4bdce.jpg)
 ![photo_2021-06-29_15-37-51](https://user-images.githubusercontent.com/56477695/123860200-425c4b80-d92e-11eb-838c-7ff7e985c092.jpg)
 
-Homepage
-
 My very own personal website about the professional monster killer-a witcher Geralt of Rivia, based on a series of books by Polish writer Andrzej Sapkowski in the fantasy genre. This is mostly just a resume.
 
 About Geralt
