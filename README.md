@@ -21,12 +21,12 @@
 ![photo_2021-06-28_11-10-32](https://user-images.githubusercontent.com/56477695/123633167-89104f80-d821-11eb-86af-529f37a4bdce.jpg)
 ![photo_2021-06-29_15-37-51](https://user-images.githubusercontent.com/56477695/123860200-425c4b80-d92e-11eb-838c-7ff7e985c092.jpg)
 
-My very own personal website about the professional monster killer-a witcher Geralt of Rivia, based on a series of books by Polish writer Andrzej Sapkowski in the fantasy genre. This is mostly just a resume.
+### My very own personal website about the professional monster killer-a witcher Geralt of Rivia, based on a series of books by Polish writer Andrzej Sapkowski in the fantasy genre. This is mostly just a resume.
 
-About Geralt
+## About Geralt
 
-“I, Geralt of Rivia, nicknamed by the elves" Guinblade "and the White Wolf, a witcher from the Wolf School in Kaer Morhen, the kingdom of Kaedwen,Neverland world. A living legend of the entire North. Passed the Trial of Herbs, overcame mutations and training, destroyed countless monsters and beasts of the entire bestiary of the Continent, and much more. I have an incredibly huge number of closed contracts, of which the most famous are: lifting the curse imposed on Princess Adda; expulsion of the genie from Rinda; victory in a battle with the demon-Gunter O'Dim; kill the king of the Wild Hunt-Eredin Breakk Glas; ridding Toussaint of Bokler Beast-vampire Detlaff."
+#### “I, Geralt of Rivia, nicknamed by the elves" Guinblade "and the White Wolf, a witcher from the Wolf School in Kaer Morhen, the kingdom of Kaedwen,Neverland world. A living legend of the entire North. Passed the Trial of Herbs, overcame mutations and training, destroyed countless monsters and beasts of the entire bestiary of the Continent, and much more. I have an incredibly huge number of closed contracts, of which the most famous are: lifting the curse imposed on Princess Adda; expulsion of the genie from Rinda; victory in a battle with the demon-Gunter O'Dim; kill the king of the Wild Hunt-Eredin Breakk Glas; ridding Toussaint of Bokler Beast-vampire Detlaff."
 
-About Project
+## About Project
 
-Basic instructions for the code are available at github wiki.
+### Basic instructions for the code are available at github wiki.
