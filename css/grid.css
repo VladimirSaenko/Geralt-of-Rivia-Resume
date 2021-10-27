@@ -18,52 +18,52 @@
   
 /* Rows */
 .grid > .row {
-    position: relative;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: inherit;
-    align-items: stretch;
-    width: 100% !important;
-    padding: 0;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: inherit;
+  align-items: stretch;
+  width: 100% !important;
+  padding: 0;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 /* Columns */
- /* Standard 16 column */
+/* Standard 16 column */
 .grid > .column:not(.row),
   .grid > .row > .column {
-    position: relative;
-    display: inline-block;
-    width: 6.25%;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    vertical-align: top;
+  position: relative;
+  display: inline-block;
+  width: 6.25%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  vertical-align: top;
 }
   
 .grid > * {
-    padding-left: 1rem;
-    padding-right: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
   
-  /* Columns */
-  /* Vertical padding when no rows */
+/* Columns */
+/* Vertical padding when no rows */
   
 .grid > .column:not(.row) {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
   
 .grid > .row > .column {
-    margin-top: 0;
-    margin-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
   
-  /* Assume full width with one column */
+/* Assume full width with one column */
 .grid > .column:only-child,
   .grid > .row > .column:only-child {
-    width: 100%;
+  width: 100%;
 }
   
   /* Column Width */
