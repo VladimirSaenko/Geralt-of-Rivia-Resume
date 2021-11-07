@@ -2,6 +2,7 @@
 
 ### Пример резюме, персонаж-Геральт из Ривии
 
+![243234](https://user-images.githubusercontent.com/56477695/140656820-d3b99da9-01cd-4d4b-ba79-8883cd360f29.jpg)
 ![photo_2021-04-09_19-05-49](https://user-images.githubusercontent.com/56477695/122649709-c2690100-d137-11eb-8588-e9ce5adff3e6.jpg)
 ![Геральт](https://user-images.githubusercontent.com/56477695/119560504-b2663780-bdac-11eb-8ff9-8ba013025ea2.jpg)
 ![avatar](https://user-images.githubusercontent.com/56477695/120183567-8a495f00-c218-11eb-9ab8-e6fd698758ba.jpg)
