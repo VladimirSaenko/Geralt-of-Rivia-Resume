@@ -23,7 +23,7 @@
 
 ## About Geralt
 
-### “I, Geralt of Rivia, nicknamed by the elves" Guinblade "and the White Wolf, a witcher from the Wolf School in Kaer Morhen, the kingdom of Kaedwen,Neverland world. A living legend of the entire North. Passed the Trial of Herbs, overcame mutations and training, destroyed countless monsters and beasts of the entire bestiary of the Continent, and much more. I have an incredibly huge number of closed contracts, of which the most famous are: lifting the curse imposed on Princess Adda; expulsion of the genie from Rinda; victory in a battle with the demon-Gunter O'Dim; kill the king of the Wild Hunt-Eredin Breakk Glas; ridding Toussaint of Bokler Beast-vampire Detlaff."
+### “I, Geralt of Rivia, nicknamed by the elves" Guinblade "and the White Wolf, a witcher from the Wolf School in Kaer Morhen, the kingdom of Kaedwen, Neverland world. A living legend of the entire North. Monsters Hunter. Passed the Trial of Herbs, overcame mutations and training, destroyed countless monsters and beasts of the entire bestiary of the Continent, and much more. I have an incredibly huge number of closed contracts, of which the most famous are: lifting the curse imposed on Princess Adda; expulsion of the genie from Rinda; victory in a battle with the demon-Gunter O'Dim; kill the king of the Wild Hunt-Eredin Breakk Glas; ridding Toussaint of Bokler Beast-vampire Detlaff."
 
 ## About Project
 
