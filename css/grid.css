@@ -1,4 +1,3 @@
-
 .grid {
     flex-direction: row;
     flex-wrap: wrap;
@@ -66,7 +65,7 @@
   width: 100%;
 }
   
-  /* Column Width */
+/* Column Width */
 .grid > .row > [class*="one wide"].column,
   .grid > .column.row > [class*="one wide"].column,
   .grid > [class*="one wide"].column,
