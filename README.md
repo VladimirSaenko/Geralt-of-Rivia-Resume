@@ -2,8 +2,7 @@
 
 ### Пример резюме, персонаж-Геральт из Ривии
 
-![243234](https://user-images.githubusercontent.com/56477695/140656820-d3b99da9-01cd-4d4b-ba79-8883cd360f29.jpg)
-![photo_2021-04-09_19-05-49](https://user-images.githubusercontent.com/56477695/122649709-c2690100-d137-11eb-8588-e9ce5adff3e6.jpg)
+![photo_2021-12-31_20-33-42](https://user-images.githubusercontent.com/56477695/147980384-6a344bac-f71c-4429-ba95-dfaae4ec60d4.jpg)
 ![Геральт](https://user-images.githubusercontent.com/56477695/119560504-b2663780-bdac-11eb-8ff9-8ba013025ea2.jpg)
 ![avatar](https://user-images.githubusercontent.com/56477695/120183567-8a495f00-c218-11eb-9ab8-e6fd698758ba.jpg)
 ![avatar3](https://user-images.githubusercontent.com/56477695/120183577-8cabb900-c218-11eb-94a0-05ec88f17b25.png)
@@ -19,6 +18,8 @@
 ![photo_2021-06-26_17-19-23](https://user-images.githubusercontent.com/56477695/123520833-80056e00-d6bb-11eb-8745-8a657d48cc04.jpg)
 ![photo_2021-06-28_11-10-32](https://user-images.githubusercontent.com/56477695/123633167-89104f80-d821-11eb-86af-529f37a4bdce.jpg)
 ![photo_2021-06-29_15-37-51](https://user-images.githubusercontent.com/56477695/123860200-425c4b80-d92e-11eb-838c-7ff7e985c092.jpg)
+![243234](https://user-images.githubusercontent.com/56477695/140656820-d3b99da9-01cd-4d4b-ba79-8883cd360f29.jpg)
+![photo_2021-04-09_19-05-49](https://user-images.githubusercontent.com/56477695/122649709-c2690100-d137-11eb-8588-e9ce5adff3e6.jpg)
 
 ### My very own personal website about the professional monster killer-a witcher Geralt of Rivia, based on a series of books by Polish writer Andrzej Sapkowski in the fantasy genre. This is mostly just a resume.
 
