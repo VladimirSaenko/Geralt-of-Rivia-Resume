@@ -85,17 +85,7 @@ h4 {
     height: 2rem;
   }
 
-  .avatar {
-    height: 350px;
+  .avatar-wrapper {
+    display: none;
   }
-
-  /* .page {
-    background: #000;
-    color: #fff;
-  }
-
-  p, a, span {
-    color: #fff;
-  } */
-  
 }
