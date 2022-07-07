@@ -1,4 +1,4 @@
-# 🐺Geralt-Of-Rivia-Resume-Example🐺
+# 🐺Geralt-of-Rivia-Resume-Example🐺
 
 ## Пример резюме, персонаж - Геральт из Ривии 🐺
 
